@@ -1,0 +1,7 @@
+1. make R logo more visible
+2. More space on top to add place and dates
+3. Updated and rearranged "you will learn"
+4. Updated "practical information" - needs more space.
+5. Update "instructor" information - needs less space
+6. Need to edit one of testimonials.
+7. Remove effects from R and add border or anything like t to make it visible / contrast.
