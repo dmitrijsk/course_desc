@@ -2,11 +2,11 @@ Package Report
 
 -----------------------------------------------------------------------------
 Document:
-Name: webpage.ai
+Name: En-new.ai
 Color Mode: RGB color
 Color Profile: sRGB IEC61966-2.1
 Ruler Units: pixels
-Artboard Dimensions: 600 px x 1186.9829 px
+Artboard Dimensions: 800 px x 2142.1304 px
 Show Images in Outline Mode: OFF
 Highlight Substituted Fonts: OFF
 Highlight Substituted Glyphs: OFF
@@ -24,11 +24,12 @@ Protected Fonts that were not packaged:NONE
 
 -----------------------------------------------------------------------------
 Fonts:
-Montserrat Regular (TrueType)
 Montserrat Italic (TrueType)
-Montserrat ExtraBold (TrueType)
 Montserrat SemiBold (TrueType)
+Montserrat Regular (TrueType)
 Montserrat Bold (TrueType)
+Montserrat ExtraBold (TrueType)
+Myriad Pro (OTF)
 
 -----------------------------------------------------------------------------
 Embedded Fonts:
@@ -46,8 +47,8 @@ Type: RGB
 Bits per Pixel: 24
 Channels: 3
 Size: 1635K, 1024 by 545 pixels
-Dimensions: 768.347 by 408.935 points 
-Resolution: 95.957 by 95.957 pixels per inch
+Dimensions: 1088.552 by 562.413 points 
+Resolution: 67.73 by 69.771 pixels per inch
 
 
 C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
@@ -55,17 +56,8 @@ Type: RGB
 Bits per Pixel: 24
 Channels: 3
 Size: 1635K, 1024 by 545 pixels
-Dimensions: 793.891 by 422.53 points 
-Resolution: 92.869 by 92.869 pixels per inch
-
-
-C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
-Type: RGB
-Bits per Pixel: 24
-Channels: 3
-Size: 1635K, 1024 by 545 pixels
-Dimensions: 768.347 by 286.338 points 
-Resolution: 95.957 by 137.041 pixels per inch
+Dimensions: 1578.121 by 588.115 points 
+Resolution: 46.719 by 66.722 pixels per inch
 
 
 C:\Users\Oto\Box Sync\Projects\Dmitrijs\dmitrijs_photo\DSC01458.jpg
@@ -73,17 +65,17 @@ Type: RGB
 Bits per Pixel: 24
 Channels: 3
 Size: 8970K, 1495 by 2048 pixels
-Dimensions: 132.494 by 181.504 points 
-Resolution: 812.411 by 812.411 pixels per inch
+Dimensions: 176.358 by 241.593 points 
+Resolution: 610.349 by 610.349 pixels per inch
 
 
-C:\Users\Oto\Box Sync\Projects\Dmitrijs\RIMI_logo.jpg
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
 Type: RGB
 Bits per Pixel: 24
 Channels: 3
-Size: 1439K, 1181 by 416 pixels
-Dimensions: 35.961 by 12.667 points 
-Resolution: 2364.556 by 2364.555 pixels per inch
+Size: 1635K, 1024 by 545 pixels
+Dimensions: 1290.938 by 481.091 points 
+Resolution: 57.112 by 81.565 pixels per inch
 
 
 C:\Users\Oto\Box Sync\Projects\Dmitrijs\download.png
@@ -91,8 +83,8 @@ Type: RGB
 Bits per Pixel: 24
 Channels: 3
 Size: 148K, 225 by 225 pixels
-Dimensions: 27.726 by 27.726 points 
-Resolution: 584.281 by 584.281 pixels per inch
+Dimensions: 36.905 by 36.905 points 
+Resolution: 438.959 by 438.959 pixels per inch
 
 
 C:\Users\Oto\Box Sync\Projects\Dmitrijs\mintos-logo-250x250.png
@@ -100,5 +92,32 @@ Type: Transparent Grayscale
 Bits per Pixel: 16
 Channels: 2
 Size: 122K, 250 by 250 pixels
-Dimensions: 46.956 by 46.956 points 
-Resolution: 383.338 by 383.338 pixels per inch
+Dimensions: 62.501 by 62.501 points 
+Resolution: 287.994 by 287.994 pixels per inch
+
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\RIMI_logo.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1439K, 1181 by 416 pixels
+Dimensions: 47.866 by 16.861 points 
+Resolution: 1776.444 by 1776.444 pixels per inch
+
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1635K, 1024 by 545 pixels
+Dimensions: 1022.717 by 544.317 points 
+Resolution: 72.09 by 72.09 pixels per inch
+
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1635K, 1024 by 545 pixels
+Dimensions: 2113.435 by 562.413 points 
+Resolution: 34.885 by 69.771 pixels per inch
