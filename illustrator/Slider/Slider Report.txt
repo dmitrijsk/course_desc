@@ -1,0 +1,67 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Slider.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 679 px x 157 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Montserrat Italic (TrueType)
+Montserrat SemiBold (TrueType)
+Montserrat Regular (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\download.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 36.905 by 36.905 points 
+Resolution: 438.959 by 438.959 pixels per inch
+
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\mintos-logo-250x250.png
+Type: Transparent Grayscale
+Bits per Pixel: 16
+Channels: 2
+Size: 122K, 250 by 250 pixels
+Dimensions: 62.501 by 62.501 points 
+Resolution: 287.994 by 287.994 pixels per inch
+
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\RIMI_logo.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1439K, 1181 by 416 pixels
+Dimensions: 47.866 by 16.861 points 
+Resolution: 1776.444 by 1776.444 pixels per inch
