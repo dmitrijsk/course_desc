@@ -6,7 +6,7 @@ Name: Book.ai
 Color Mode: RGB color
 Color Profile: none
 Ruler Units: pixels
-Artboard Dimensions: 800 px x 1218.2609 px
+Artboard Dimensions: 800 px x 1342.6957 px
 Show Images in Outline Mode: OFF
 Highlight Substituted Fonts: OFF
 Highlight Substituted Glyphs: OFF
@@ -25,8 +25,8 @@ Protected Fonts that were not packaged:NONE
 -----------------------------------------------------------------------------
 Fonts:
 Myriad Pro (OTF)
-Montserrat ExtraBold (TrueType)
 Montserrat SemiBold (TrueType)
+Montserrat ExtraBold (TrueType)
 Montserrat Bold (TrueType)
 
 -----------------------------------------------------------------------------
@@ -39,6 +39,15 @@ NONE
 
 -----------------------------------------------------------------------------
 Linked Images:
+
+C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1635K, 1024 by 545 pixels
+Dimensions: 2039.699 by 1004.18 points 
+Resolution: 36.147 by 39.077 pixels per inch
+
 
 C:\Users\Oto\Box Sync\Projects\Dmitrijs\Imagen_Blog_30.png
 Type: RGB
